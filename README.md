@@ -1,5 +1,4 @@
 # UTS-IOT-TRISJOLI
-# UTS-IOT-TRISJOLI
 ## Dokumentasi Proyek Internet of Things (IoT)
 
 ### 1. Deskripsi Proyek
