@@ -403,7 +403,7 @@ Seluruh hasil penggunaan AI diperiksa dan diverifikasi melalui pengujian program
 
 **Video demonstrasi:**
 
-https://drive.google.com/file/d/1E1e_ZenLYo-afCCz0kww_L4xQxLFOm_s/view?usp=drive_link
+https://drive.google.com/drive/folders/15rduw7jRzMSdB-3RQ5xenmQACwmYmCDv?usp=drive_link
 
 ---
 
