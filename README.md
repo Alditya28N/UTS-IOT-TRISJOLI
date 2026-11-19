@@ -354,7 +354,7 @@ Data mentah dan dokumentasi pengujian dapat diakses melalui tautan berikut.
 
 **Folder pengumpulan data:**
 
-https://drive.google.com/drive/folders/1RZiwa2Ku0_ux0FHlBgddygGxJkpzaBUJ?usp=drive_link
+https://drive.google.com/drive/folders/1RZiwa2Ku0_ux0FHlBgddygGxJkpzaBUJ?usp=sharing
 
 ### 7.4 Verifikasi Hasil
 
